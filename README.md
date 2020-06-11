@@ -2,7 +2,7 @@
 
 * [React](https://facebook.github.io/react/): Frontend framework for building user interfaces
 * [Apollo Client](https://github.com/apollographql/apollo-client): Fully-featured, production ready caching GraphQL client
-* [Graphql](https://https://graphql.org/): Backend development framework based on GraphQL
+* [Graphql](https://graphql.org/): Backend development framework based on GraphQL
 
 
 ### 1. Install dependencies & run locally backend project
